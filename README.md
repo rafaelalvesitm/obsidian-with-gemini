@@ -1,4 +1,4 @@
-# Obsidiana com Gemini
+# Obsidian com Gemini
 
 Esta é a minha tentativa de criar um plugin para [Obsidian](https://obsidian.md). Eu uso o Obsidian como meu aplicativo de anotações diárias para criar minha base de conhecimento seguindo alguns sistemas de gestão de conhecimento pessoal, mas com meu toque pessoal. Eu nunca tentei programar nada em javascript e Typescript então este foi um grande desafio. 
 
@@ -6,7 +6,7 @@ A ideia de criar este Plugin surgiu da participação no [Imersão Alura + Googl
 
 # Demonstração das funcionalidades deste plugin. 
 
-
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)]([https://www.youtube.com/embed/<VIDEO_ID>](https://www.youtube.com/watch?v=sSppw88coQ4))
 
 # Como usar este plugin no Obsidian. 
 

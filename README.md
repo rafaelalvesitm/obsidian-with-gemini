@@ -6,7 +6,7 @@ A ideia de criar este Plugin surgiu da participação no [Imersão Alura + Googl
 
 # Demonstração das funcionalidades deste plugin. 
 
-![Watch the video]([https://www.youtube.com/embed/<VIDEO_ID>](https://www.youtube.com/watch?v=sSppw88coQ4)
+[![Watch the video](https://img.youtube.com/vi/sSppw88coQ4/maxresdefault.jpg)](https://youtu.be/sSppw88coQ4)
 
 # Como usar este plugin no Obsidian. 
 

@@ -1,6 +1,18 @@
 # Obsidian com Gemini
 
-Esta é a minha tentativa de criar um plugin para [Obsidian](https://obsidian.md). Eu uso o Obsidian como meu aplicativo de anotações diárias para criar minha base de conhecimento seguindo alguns sistemas de gestão de conhecimento pessoal, mas com meu toque pessoal. Eu nunca tentei programar nada em javascript e Typescript então este foi um grande desafio. 
+Crie notas mais rápido com o [Gemini](https://gemini.google.com/) e [Obsidian](https://obsidian.md): o poder da inteligência artificial na palma da sua mão!
+Imagine um futuro onde suas notas se tornam ferramentas dinâmicas, respondendo perguntas, resumindo e reescrevendo trechos em um piscar de olhos. Essa realidade já está aqui com a integração do Gemini ao Obsidian!
+
+Com este plugin inovador, você transforma o Obsidian em um portal para a inteligência artificial, desbloqueando recursos como:
+
+- Respostas instantâneas: Faça perguntas sobre suas notas e obtenha respostas precisas e contextuais, sem precisar pesquisar manualmente.
+- Expansão de ideias: Transforme ideias simples em parágrafos completos e bem estruturados, com o Gemini expandindo seu texto de forma criativa.
+- Resumo inteligente: Capture a essência de suas notas com resumos concisos e informativos, perfeitos para revisão rápida ou compartilhamento.
+- Reescrita fluida: Reformule frases e parágrafos com precisão e fluidez, aprimorando a clareza e o impacto do seu texto.
+- 
+Tudo isso sem sair do Obsidian! O plugin Gemini é de fácil instalação e uso, e em breve estará disponível na biblioteca de plugins da comunidade Obsidian.
+
+Experimente o Gemini hoje e descubra como a inteligência artificial pode revolucionar sua forma de trabalhar com notas!
 
 A ideia de criar este Plugin surgiu da participação no [Imersão Alura + Google](https://www.alura.com.br/artigos/imersao-ia) que é um evento criado em parceria entre [Alura](https ://www.alura.com.br/) escola de tecnologia e Google. O código criado aqui é baseado em um [plug-in de exemplo para Obsidian](https://github.com/obsidianmd/obsidian-sample-plugin) e no [Guia de início rápido para a API Google Gemini](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart).
 
